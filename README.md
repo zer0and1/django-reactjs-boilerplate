@@ -27,7 +27,7 @@ browser quite easily:
 
 ```bash
 git clone https://github.com/mbrochh/django-reactjs-boilerplate.git
-cd django-react-boilerplace/django
+cd django-react-boilerplate/django
 mkvirtualenv djreact
 pip install -r requirements.txt
 npm install
